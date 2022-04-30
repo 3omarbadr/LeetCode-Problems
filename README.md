@@ -15,4 +15,5 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/RemoveDuplicatesfromSortedArray.php) [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/RemoveDuplicatesfromSortedArray.php)|Easy|
+|2|[Binary Search](https://leetcode.com/problems/binary-search/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/BinarySearch.php) |Easy|
 
