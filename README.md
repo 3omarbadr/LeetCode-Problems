@@ -17,4 +17,4 @@
 |1|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/RemoveDuplicatesfromSortedArray.php) [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/RemoveDuplicatesfromSortedArray.php)|Easy|
 |2|[Binary Search](https://leetcode.com/problems/binary-search/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/BinarySearch.php) |Easy|
 |3|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/FirstBadVersion.php) |Easy|
-
+|4|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/SearchInsertPosition.php) |Easy|
