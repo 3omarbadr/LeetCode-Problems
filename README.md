@@ -20,3 +20,4 @@
 |4|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/SearchInsertPosition.php) |Easy|
 |5|[SquaresOfASortedArray](https://leetcode.com/problems/squares-of-a-sorted-array/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/SquaresOfASortedArray.php) [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/SquaresOfASortedArray2.php) |Easy|
 |6|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Medium/RotateArray.php) [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Medium/RotateArray2.php) |Medium|
+|7|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/MoveZeroes.php) |Easy|
