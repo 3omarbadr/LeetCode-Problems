@@ -22,4 +22,5 @@
 |6|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Medium/RotateArray.php) [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Medium/RotateArray2.php) |Medium|
 |7|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/MoveZeroes.php) |Easy|
 |8|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Medium/TwoSumII.php) |Medium|
+|9|[Reverse String](https://leetcode.com/problems/reverse-string/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/ReverseString.php) |Easy|
 
