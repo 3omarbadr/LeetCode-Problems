@@ -3,7 +3,6 @@
 <?php
 
 class Solution {
-
     /**
      * @param String $s
      * @return String
@@ -14,12 +13,12 @@ class Solution {
         for($j = 0; $j < count($st); $j++){
             if($st[$j] == ' ')
             {
-                $this->reverse($st, $i, $j - 1);
+                $st = $this->reverse($st, $i, $j - 1);
                 $i = $j + 1;
             }
         }
-        $this->reverse($st, $i, count($st) - 1);
-        return implode($st);
+        $st =  $this->reverse($st, $i, $j - 1);
+        return implode($st) ;
         
     }
     
@@ -36,3 +35,4 @@ class Solution {
         return $s;
     }
 }
+
