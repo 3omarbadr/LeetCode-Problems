@@ -25,3 +25,4 @@
 |9|[Reverse String](https://leetcode.com/problems/reverse-string/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/ReverseString.php) |Easy|
 |10|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/ReverseWordsInAStringIII.php) |Easy|
 |11|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Easy/MiddleoftheLinkedList.php) |Easy|
+|12|[Delete The Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [PHP](https://github.com/3omarbadr/LeetCode-Problems/blob/main/Medium/DeleteTheMiddleNodeOfALinkedList.php) |Medium|
